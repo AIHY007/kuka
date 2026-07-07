@@ -2774,7 +2774,7 @@
         "years_of_service": 1.7,
         "education": "大专",
         "school": "唐山工业职业技术大学",
-        "work_location": "常州"
+        "work_location": "上海"
       },
       "medals": {
         "skill_medals": [
@@ -3073,7 +3073,7 @@
         "years_of_service": 2.6,
         "education": "大专",
         "school": "机器人",
-        "work_location": "湘潭"
+        "work_location": "义乌"
       },
       "medals": {
         "skill_medals": [
@@ -4004,7 +4004,10 @@
           "metric": "已完成"
         }
       ],
-      "work_location": ""
+      "work_location": "",
+      "base_info": {
+        "work_location": "南京"
+      }
     },
     {
       "id": "eng-20762774",
@@ -4554,7 +4557,7 @@
         "years_of_service": 2.2,
         "education": "大专",
         "school": "唐山工业职业技术学院",
-        "work_location": "天津"
+        "work_location": "北京"
       },
       "medals": {
         "skill_medals": [
@@ -5383,7 +5386,7 @@
         "years_of_service": 2.2,
         "education": "本科",
         "school": "青岛理工大学",
-        "work_location": "山东"
+        "work_location": "潍坊"
       },
       "medals": {
         "skill_medals": [
@@ -6133,7 +6136,7 @@
         "years_of_service": 2.6,
         "education": "大专",
         "school": "重庆工程职业技术学院",
-        "work_location": "北京"
+        "work_location": "晋中"
       },
       "medals": {
         "skill_medals": [
@@ -6286,7 +6289,7 @@
         "years_of_service": 0.3,
         "education": "大专",
         "school": "院校信息未收录",
-        "work_location": ""
+        "work_location": "天津"
       },
       "medals": {
         "skill_medals": [
@@ -6754,7 +6757,7 @@
         "years_of_service": 2.0,
         "education": "本科",
         "school": "韶关学院",
-        "work_location": "顺德"
+        "work_location": "无锡"
       },
       "medals": {
         "skill_medals": [
@@ -6892,7 +6895,7 @@
         "years_of_service": 0.3,
         "education": "大专",
         "school": "院校信息未收录",
-        "work_location": ""
+        "work_location": "合肥"
       },
       "medals": {
         "skill_medals": [
@@ -10287,7 +10290,7 @@
         "years_of_service": 7.0,
         "education": "大专",
         "school": "肇庆学院",
-        "work_location": "顺德"
+        "work_location": "广州"
       },
       "medals": {
         "skill_medals": [
@@ -10907,7 +10910,7 @@
         "years_of_service": 5.3,
         "education": "大专",
         "school": "宁波大红鹰学院",
-        "work_location": "福建"
+        "work_location": "宁德"
       },
       "medals": {
         "skill_medals": [
@@ -11850,7 +11853,7 @@
         "years_of_service": 0.3,
         "education": "大专",
         "school": "院校信息未收录",
-        "work_location": ""
+        "work_location": "顺德"
       },
       "medals": {
         "skill_medals": [
@@ -14646,6 +14649,80 @@
       "medals": {
         "skill_medals": [],
         "certificate_medals": [],
+        "training_medals": []
+      },
+      "rarity_summary": {
+        "legendary": 0,
+        "epic": 0,
+        "rare": 0,
+        "common": 0
+      }
+    },
+    {
+      "id": "eng-excel-001",
+      "name": "周柏言",
+      "role": "实习生",
+      "region": "华南",
+      "startDate": "2025-07-24",
+      "yearsOfService": 0.9,
+      "education": "",
+      "school": "",
+      "avatarTone": "slate",
+      "badges": [],
+      "engineer_id": "eng-excel-001",
+      "avatar": {
+        "type": "initial",
+        "tone": "slate"
+      },
+      "base_info": {
+        "name": "周柏言",
+        "role": "实习生",
+        "region": "华南",
+        "start_date": "2025-07-24",
+        "years_of_service": 0.9,
+        "education": "",
+        "school": "",
+        "work_location": "顺德"
+      },
+      "medals": {
+        "skill_medals": [],
+        "training_medals": []
+      },
+      "rarity_summary": {
+        "legendary": 0,
+        "epic": 0,
+        "rare": 0,
+        "common": 0
+      }
+    },
+    {
+      "id": "eng-excel-002",
+      "name": "徐景杨",
+      "role": "实习生",
+      "region": "华南",
+      "startDate": "2025-07-24",
+      "yearsOfService": 0.9,
+      "education": "",
+      "school": "",
+      "avatarTone": "slate",
+      "badges": [],
+      "engineer_id": "eng-excel-002",
+      "avatar": {
+        "type": "initial",
+        "tone": "slate"
+      },
+      "base_info": {
+        "name": "徐景杨",
+        "role": "实习生",
+        "region": "华南",
+        "start_date": "2025-07-24",
+        "years_of_service": 0.9,
+        "education": "",
+        "school": "",
+        "work_location": "顺德"
+      },
+      "medals": {
+        "skill_medals": [],
         "training_medals": []
       },
       "rarity_summary": {
